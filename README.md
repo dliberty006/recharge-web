@@ -1,9 +1,5 @@
 # recharge-web
 
-## 说明
-
-> 该项目为前后端分离项目，搭建步骤具体参考后端项目[传送门](https://github.com/macrozheng/mall)。
-
 ## 技术选型
 
 技术 | 说明 | 官网
@@ -42,4 +38,3 @@ src -- 源码目录
 - 在IDEA命令行中运行命令：npm install,下载相关依赖;
 - 在IDEA命令行中运行命令：npm run dev,运行项目;
 - 访问地址：[http://localhost:8090](http://localhost:8090) 即可打开后台管理系统页面;
-- 
